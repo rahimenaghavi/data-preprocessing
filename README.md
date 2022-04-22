@@ -1,6 +1,5 @@
 # preprocessing-code
-
-It contains methods for data preprocessing:
+This folder contains the notebooks for data preprocessing
 
 * Read data
 * Drop row and columns
