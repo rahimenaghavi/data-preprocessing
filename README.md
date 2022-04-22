@@ -9,3 +9,5 @@ It contains methods for data preprocessing:
 * Cross Tabulation
 * Normalize data
 * Outlier
+* Feature Selection with KNN & RandomForest
+* Feature Reduction with eigen value
