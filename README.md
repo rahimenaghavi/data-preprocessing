@@ -10,4 +10,4 @@ It contains methods for data preprocessing:
 * Normalize data
 * Outlier
 * Feature Selection with KNN & RandomForest
-* Feature Reduction with eigen value
+* Dimensionality Reduction with eigen value
