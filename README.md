@@ -1,6 +1,5 @@
 # preprocessing-code
-
-It contains methods for data preprocessing:
+This folder contains the notebooks for data preprocessing
 
 * Read data
 * Drop row and columns
@@ -10,4 +9,4 @@ It contains methods for data preprocessing:
 * Normalize data
 * Outlier
 * Feature Selection with KNN & RandomForest
-* Feature Reduction with eigen value
+* Dimensionality Reduction with eigen value
